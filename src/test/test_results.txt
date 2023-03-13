@@ -1,0 +1,8 @@
+✓ src/test/Fibonacci.test.jsx (4)
+✓ src/test/Input.test.jsx (1)    
+✓ src/test/Card.test.jsx (2)     
+
+Test Files  3 passed (3)
+     Tests  7 passed (7)
+  Start at  03:39:23
+  Duration  3.24s (transform 212ms, setup 0ms, collect 3.26s, tests 228ms)
